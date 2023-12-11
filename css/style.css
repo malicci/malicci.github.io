@@ -36,6 +36,7 @@
     letter-spacing: 0.3em;
     line-height: 1em;
     color:var(--main-light);
+    margin-top: 10px;
 }
 
 .navbar-end {

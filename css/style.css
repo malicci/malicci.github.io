@@ -19,16 +19,20 @@
     text-align: left;
     font-size: 1.4em;
     color: var(--grey);
-    font-family: "PuristaSemiBold";
     font-family: 'Bai Jamjuree', sans-serif;
-    font-weight: 700;
+    /*font-family: 'Audiowide', sans-serif;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Electrolize', sans-serif;
+    font-family: 'Big Shoulders Display', sans-serif;
 
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Saira Semi Condensed', sans-serif;*/
     letter-spacing: 0.2em;
 }
 
 .welcome-subtitle {
     font-size: 0.85em;
-    font-family:"ProximaLight";
+    font-family:"Barlow";
     letter-spacing: 0.3em;
     line-height: 1em;
     color:var(--main-light);
@@ -109,7 +113,7 @@ nav.navbar {
 .menu {
     max-width: 600px;
     margin-left:auto;
-    font-family:"ProximaLight";
+    font-family:"Barlow";
     letter-spacing: 0.13em;
     font-size: 1.1em;
     font-weight: bold;
@@ -135,6 +139,10 @@ img.logo {
     bottom: 0;
     text-align: center;
     font-size: smaller;
+}
+body {
+    font-family: 'Barlow';
+
 }
 
 img {
@@ -325,7 +333,7 @@ section .column img {
     height: 70px;
     font-size: xx-large;
     margin-bottom: 2em;
-    font-family: 'ProximaLight';
+    font-family: 'Barlow';
     letter-spacing: 0.1em;
     margin-left: 8px;
 }
